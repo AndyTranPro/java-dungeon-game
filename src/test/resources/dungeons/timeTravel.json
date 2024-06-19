@@ -1,0 +1,22 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "type": "boulder"
+        },    
+        {
+            "x": 7,
+            "y": 7,
+            "type": "exit"
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}

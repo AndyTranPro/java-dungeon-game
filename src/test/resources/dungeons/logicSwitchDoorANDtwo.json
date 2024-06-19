@@ -1,0 +1,39 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "type": "sun_stone"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "type" : "boulder"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "type": "switch"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "type": "switch_door",
+            "key": 1,
+            "logic": "and"
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "type": "exit"
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "type": "time_turner"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "type": "boulder"
+        }, 
+        {
+            "x": 5,
+            "y": 0,
+            "type": "time_travelling_portal" 
+        } , 
+        {
+            "x": 7,
+            "y": 7,
+            "type": "exit"
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}

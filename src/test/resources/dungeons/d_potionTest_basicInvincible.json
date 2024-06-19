@@ -1,0 +1,85 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 1
+        },
+        {
+            "type" : "invincibility_potion",
+            "x":1,
+            "y":1
+        },
+        {
+            "type": "mercenary",
+            "x": 4,
+            "y": 1
+        },
+        {
+            "type": "exit",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "type": "wall",
+            "x": 1,
+            "y": 0
+        },
+        {
+            "type": "wall",
+            "x": 2,
+            "y": 0
+        },
+        {
+            "type": "wall",
+            "x": 3,
+            "y": 0
+        },
+        {
+            "type" : "wall",
+            "x":4,
+            "y":0
+        },
+        {
+            "type" : "wall",
+            "x":5,
+            "y":0
+        },
+        {
+            "type" : "wall",
+            "x":4,
+            "y":2
+        },
+        {
+            "type" : "wall",
+            "x":5,
+            "y":2
+        },
+        {
+            "type": "wall",
+            "x": 3,
+            "y": 2
+        },
+        {
+            "type": "wall",
+            "x": 2,
+            "y": 2
+        },
+        {
+            "type": "wall",
+            "x": 1,
+            "y": 2
+        },
+        {
+            "type": "wall",
+            "x": 0,
+            "y": 2
+        },
+        {
+            "type": "zombie_toast",
+            "x": 10,
+            "y": 10
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

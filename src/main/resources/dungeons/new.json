@@ -1,0 +1,15 @@
+{
+    "entities": [
+    {
+        "type" : "player",
+        "x" : 2,
+        "y" : 2
+    },
+    {
+        "type" : "time_turner",
+        "x" : 2,
+        "y": 3
+    }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "coverage-gutters.showGutterCoverage": true,
+    "coverage-gutters.coverageReportFileName": "build/reports/jacoco/test/html/**/*/index.html",
+    "coverage-gutters.xmlname": "build/reports/jacoco/test/jacocoTestReport.xml",
+    "livePreview.defaultPreviewPath": "/build/reports/jacoco/test/html/index.html",
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m"
+}
